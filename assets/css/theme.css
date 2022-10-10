@@ -144,7 +144,7 @@ section.recent-posts {
 }
 
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
-    background: #6FD350;
+    background: black;
     color: #fff;
     border-radius: 4px;
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.1);
@@ -388,7 +388,7 @@ span.post-name a, span.post-read-more a:hover {
 }
 
 .intro {
-    background-image: url(../images/head.jpg);
+    background-image: url(../images/tech.jpg);
     background-size: cover;
     padding: 9rem 0;
     margin-top: -87px;
@@ -398,7 +398,7 @@ span.post-name a, span.post-read-more a:hover {
 }
 
 .intro .btn {
-    background: #008744;
+    background: #3c3838;
     border: 0;
     color: #333;
     border-radius: 3px;
@@ -733,8 +733,8 @@ a.btn {
 }
 
 .btn-primary {
-    background-color: #675bff;
-    border-color: #675bff;
+    background-color: #3c3838;
+    border-color: #3c3838;
 }
 
 .btn.follow {
